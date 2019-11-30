@@ -1,1 +1,7 @@
 This is my first file in github
+
+My Plan is becoming A Fullstack Developer.
+Way to reach it : 
+- See the roadmap
+- Learn the pre-requisite lesson
+- Learn the lesson according to the map
